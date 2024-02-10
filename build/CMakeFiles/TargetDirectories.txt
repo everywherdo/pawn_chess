@@ -1,3 +1,0 @@
-/home/everywherdo/personal_projects/chess/pawn_chess/build/CMakeFiles/pawn_chess.dir
-/home/everywherdo/personal_projects/chess/pawn_chess/build/CMakeFiles/edit_cache.dir
-/home/everywherdo/personal_projects/chess/pawn_chess/build/CMakeFiles/rebuild_cache.dir

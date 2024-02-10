@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/pawn_chess.dir/src/board_handler.cpp.o CMakeFiles/pawn_chess.dir/src/evaluation.cpp.o CMakeFiles/pawn_chess.dir/src/io_manager.cpp.o CMakeFiles/pawn_chess.dir/src/minmax.cpp.o CMakeFiles/pawn_chess.dir/main.cpp.o -o pawn_chess 
