@@ -1,6 +1,6 @@
-This is a simple Pawn Chess Project where we write a chess engine for only pawns.
+## This is a simple Pawn Chess Project where we write a chess engine for only pawns.
 
-##To build:
+## To build:
 
 1) mkdir build
 2) cd build
